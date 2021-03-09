@@ -1,0 +1,15 @@
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/obj/Debug/net5.0/HelloWorld_Udemy.csprojAssemblyReference.cache
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/obj/Debug/net5.0/HelloWorld_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/obj/Debug/net5.0/HelloWorld_Udemy.AssemblyInfoInputs.cache
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/obj/Debug/net5.0/HelloWorld_Udemy.AssemblyInfo.cs
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/obj/Debug/net5.0/HelloWorld_Udemy.csproj.CoreCompileInputs.cache
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/bin/Debug/net5.0/HelloWorld_Udemy.deps.json
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/bin/Debug/net5.0/HelloWorld_Udemy.runtimeconfig.json
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/bin/Debug/net5.0/HelloWorld_Udemy.runtimeconfig.dev.json
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/bin/Debug/net5.0/HelloWorld_Udemy.dll
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/bin/Debug/net5.0/ref/HelloWorld_Udemy.dll
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/bin/Debug/net5.0/HelloWorld_Udemy.pdb
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/obj/Debug/net5.0/HelloWorld_Udemy.dll
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/obj/Debug/net5.0/ref/HelloWorld_Udemy.dll
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/obj/Debug/net5.0/HelloWorld_Udemy.pdb
+/Users/AminaEmenena/Projects/HelloWorld_Udemy/HelloWorld_Udemy/obj/Debug/net5.0/HelloWorld_Udemy.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/obj/Debug/netcoreapp3.1/Challenge_One.csprojAssemblyReference.cache
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/obj/Debug/netcoreapp3.1/Challenge_One.AssemblyInfoInputs.cache
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/obj/Debug/netcoreapp3.1/Challenge_One.AssemblyInfo.cs
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/obj/Debug/netcoreapp3.1/Challenge_One.csproj.CoreCompileInputs.cache
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/bin/Debug/netcoreapp3.1/Challenge_One.deps.json
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/bin/Debug/netcoreapp3.1/Challenge_One.runtimeconfig.json
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/bin/Debug/netcoreapp3.1/Challenge_One.runtimeconfig.dev.json
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/bin/Debug/netcoreapp3.1/Challenge_One.dll
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/bin/Debug/netcoreapp3.1/Challenge_One.pdb
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/obj/Debug/netcoreapp3.1/Challenge_One.dll
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/obj/Debug/netcoreapp3.1/Challenge_One.pdb
+/Users/AminaEmenena/Projects/Challenge_One/Challenge_One/obj/Debug/netcoreapp3.1/Challenge_One.genruntimeconfig.cache

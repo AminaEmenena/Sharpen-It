@@ -1,0 +1,15 @@
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/bin/Debug/net5.0/TypeConversion.deps.json
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/bin/Debug/net5.0/TypeConversion.runtimeconfig.json
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/bin/Debug/net5.0/TypeConversion.runtimeconfig.dev.json
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/bin/Debug/net5.0/TypeConversion.dll
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/bin/Debug/net5.0/ref/TypeConversion.dll
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/bin/Debug/net5.0/TypeConversion.pdb
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.csprojAssemblyReference.cache
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.AssemblyInfo.cs
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.dll
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/obj/Debug/net5.0/ref/TypeConversion.dll
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.pdb
+/Users/AminaEmenena/Projects/TypeConversion/TypeConversion/obj/Debug/net5.0/TypeConversion.genruntimeconfig.cache
